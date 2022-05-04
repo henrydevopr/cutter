@@ -53,3 +53,9 @@ buck-out/
 .expo/
 web-build/
 dist/
+
+
+# User
+.gitignore
+.gitattributes
+.expo-shared
